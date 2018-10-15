@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://ritesh:mumbai401105@ritesh-shard-00-00-yst9v.mongodb.net:27017,ritesh-shard-00-01-yst9v.mongodb.net:27017,ritesh-shard-00-02-yst9v.mongodb.net:27017/user?ssl=true&replicaSet=ritesh-shard-0&authSource=admin&retryWrites=true",
+    "apiUrl": "http://localhost:3000/api",
+    "secret": "REPLACE THIS WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
